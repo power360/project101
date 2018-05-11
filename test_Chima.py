@@ -1,1 +1,2 @@
-1 + 1
+def onePlusOne():
+    print "success"
